@@ -1,0 +1,3 @@
+recursive-include hospitalapp/static *
+recursive-include hospitalapp/assets *
+recursive-include hospitalapp/templates *
