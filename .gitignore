@@ -1,0 +1,23 @@
+*~
+*.sqlite
+*.pyc
+*/assets/js/*
+*/assets/css/*
+*/assets/img/*
+*/assets/admin/*
+*/assets/rest_framework/*
+*/assets/bootstrap*
+*/assets/CACHE/*
+*/hospitalapp/__pycache__/*
+*/hospitalapp/hospitalapp/management/__pycache__/*
+*/hospitalapp/hospitalapp/management/commands/__pycache__/*
+*/hospitalapp/hospitalapp/migrations/__pycache__/*
+.coverage
+htmlcov
+libpeerconnection.log
+
+# virtualenv
+/hospital_env/
+
+# Finder stuff
+.DS_Store
